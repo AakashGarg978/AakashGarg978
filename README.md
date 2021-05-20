@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AakashGarg978
 - 👀 I’m interested in Python and it's Libraries with awesome Frameworks.
-- 🌱 I’m currently learning Selenium
-- 💞️ I’m looking to collaborate on Python
+- 🌱 I’m currently learning Selenium, Flask and Git.
+- 💞️ I’m looking to collaborate on Python.
 - 📫 How to reach me ...     # You can reach me through all these social sites.....
 
                           1. Instagram : https://www.instagram.com/aakashgarg978/
